@@ -31,7 +31,7 @@ A responsive and simple Todo App where you can create and manage tasks and proje
 ### 🖥️ Desktop view
 ![Desktop view](./public/desktop-image.png)
 ### 📱 Mobile view
-![mobile view](./public/mobile-image.png)
+![mobile view](./public/mobile-img.png)
 
 ---
 
